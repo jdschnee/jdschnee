@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jdschnee
-- 🌱 I’m currently pursuing my undergrad in Computer Science
+- 👋 Hi, I’m Joshua Schnee
+- 🌱 I’ve recently completed my undergrad in Computer Science and am currently pursuing an MS in Data Science
 - 📫 Reach me at joshschnee@ymail.com
 
 <!---
